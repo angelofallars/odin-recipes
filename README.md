@@ -1,3 +1,17 @@
+<style>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 # [Odin Recipes](https://angelofallars.github.io/odin-recipes/)
 
 <div class="row">
