@@ -1,0 +1,36 @@
+* {
+  background: #fafafa;
+  font-family: "Helvetica", sans-serif;
+}
+
+a {
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #0F1931;
+}
+
+p, li {
+  font-size: 21px;
+  color: #111111;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 28px;
+}
+
+li {
+  margin: 15px;
+}
