@@ -3,6 +3,17 @@
   font-family: "Helvetica", sans-serif;
 }
 
+html {
+  margin-left: 28px;
+  margin-right: 28px;
+}
+
+.header_image {
+    height: 350px;
+    display: inline;
+    align: right;
+}
+
 a {
 }
 
@@ -13,6 +24,10 @@ h1, h2, h3, h4, h5, h6 {
 p, li {
   font-size: 21px;
   color: #111111;
+}
+
+li {
+  padding: 1px 0;
 }
 
 h1 {
