@@ -31,6 +31,10 @@ p, li {
   color: #111111;
 }
 
+ol, ul {
+    padding-left: 25px;
+}
+
 li {
   padding: 1px 0;
 }
